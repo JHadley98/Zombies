@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Documents\\Unreal Projects\\Zombies\\Zombies\\Source\\Zombies\\Zombies.Build.cs",
+		"E:\\Documents\\Unreal Projects\\Zombies\\Zombies\\Source\\Zombies.Target.cs",
+		"E:\\Documents\\Unreal Projects\\Zombies\\Zombies\\Source\\ZombiesEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

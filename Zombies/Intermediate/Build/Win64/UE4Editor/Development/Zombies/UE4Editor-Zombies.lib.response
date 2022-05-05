@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Zombies.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\ZombiesEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\Zombies.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesCharacter.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesGameMode.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesHUD.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesProjectile.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\Zombies.init.gen.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesCharacter.gen.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesGameMode.gen.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesHUD.gen.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\ZombiesProjectile.gen.cpp.obj"
+"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\Default.rc2.res"
+/OUT:"E:\Documents\Unreal Projects\Zombies\Zombies\Intermediate\Build\Win64\UE4Editor\Development\Zombies\UE4Editor-Zombies.lib"
+/INCLUDE:IMPLEMENT_MODULE_Zombies
